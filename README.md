@@ -8,7 +8,6 @@ This API classifies animal images into five levels of biological taxonomy: `Kela
 
 It supports multiple TensorFlow/Keras models, including:
 - `D3(4HL+0.2D).h5`: Best performance model
-- `M3(4HL+0.2D).h5`: Edge AI compatible version
 
 ## 🔧 Tech Stack
 
@@ -23,8 +22,6 @@ It supports multiple TensorFlow/Keras models, including:
 |-----------------------------|-------------|
 | `app.py`                   | Main FastAPI app for model inference |
 | `D3(4HL+0.2D).h5`          | Deep Learning model file (best version) |
-| `M3(4HL+0.2D).h5`          | Alternate model for deployment |
-| `label_encodings.json`     | Label encodings for taxonomy levels |
 | `label_encodings2.json`    | Backup or alternative label encoding |
 | `Dockerfile`               | Docker configuration for Hugging Face |
 | `requirements.txt`         | Python dependencies |
