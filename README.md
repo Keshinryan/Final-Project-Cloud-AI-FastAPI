@@ -78,5 +78,9 @@ This AI Deployment is integrated into different platforms through separate repos
 
 - **Mobile Application**  
   [Final-Project-Mobile-TaxoClassify](https://github.com/Keshinryan/Final-Project-Mobile-TaxoClassify)
+
+## 🖋 License
+
+This project is licensed under the MIT License.
   
 Final Project — Informatics Engineering — 2025
