@@ -10,6 +10,19 @@ It supports multiple TensorFlow/Keras models, including:
 - `D3(4HL+0.2D).h5`: Best performance model
 - `M3(4HL+0.2D).h5`: Edge AI compatible version
 
+## 🚀 Other Repositories
+
+This AI Deployment is integrated into different platforms through separate repositories:
+
+- **Model Training**  
+  [Final-Project-Model-Training](https://github.com/Keshinryan/Final-Project-Model-Training)
+
+- **Cloud Deployment (Gradio + Vercel + Express.js)**  
+  [Final-Project-Cloud-AI-Gradio-VercelJs-ExpressJs](https://github.com/Keshinryan/Final-Project-Cloud-AI-Gradio-VercelJs-ExpressJs)
+
+- **Mobile Application**  
+  [Final-Project-Mobile-TaxoClassify](https://github.com/Keshinryan/Final-Project-Mobile-TaxoClassify)
+
 ## 🔧 Tech Stack
 
 - **Framework**: FastAPI
